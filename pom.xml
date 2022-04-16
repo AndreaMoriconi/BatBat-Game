@@ -183,7 +183,7 @@
 					<appName>batbatgame</appName>
 					<includeTarget>false</includeTarget>
 					<includes>
-						<include>target/batbatgame.jar</include>
+						<include>target/batbatgame.war</include>
 					</includes>
 					<jdkVersion>${java.version}</jdkVersion>
 				</configuration>
